@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sn58f5isfi7tbaku?svg=true)](https://ci.appveyor.com/project/Sinsl/fpy-example)
